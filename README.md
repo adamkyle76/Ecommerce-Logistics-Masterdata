@@ -1,8 +1,8 @@
-# <u>**Disclaimer:**</u> 
+# <u>**Disclaimer**</u> 
 This dataset is a synthesized collection of data created for academic and educational purposes only. It does not represent real-world operational data from any specific company.
 
 ## ecommerce-logistics-dataset-vn
-Dataset for analyzing e-commerce logistics and inventory management in Vietnam, covering inventory, SKU masterdata, and vendor information for platforms like Shopee, Lazada, Tiki, TikTok.
+Dataset for analyzing e-commerce logistics and inventory management in Vietnam, covering inventory, SKU masterdata, and vendor information for platforms like Shopee, Lazada, Tiki, TikTok, Sendo.
 
 # UpBase - E-commerce Logistics & Inventory Management Dataset
 **Context:**
