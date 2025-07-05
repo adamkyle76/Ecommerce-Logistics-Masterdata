@@ -22,8 +22,8 @@ Dataset for analyzing e-commerce logistics and inventory management in Vietnam, 
     *   **Sku_name:** Name of the Stock Keeping Unit.
     *   **Sku_code:** Unique code for the SKU.
     *   **shop_account:** The e-commerce shop account identifier.
-    *   **Tiki, Lazada, Shopee, TikTok:** Stock levels for each respective platform.
-    *   **Tiki demand per month, Lazada demand per month, Shopee demand per month, TikTok demand per month:** Estimated monthly demand for the SKU on each platform.
+    *   **Tiki, Lazada, Shopee, TikTok, Sendo:** Stock levels for each respective platform.
+    *   **Tiki demand per month, Lazada demand per month, Shopee demand per month, TikTok demand per month, Sendo demand per month:** Estimated monthly demand for the SKU on each platform.
     *   **DOITarget (days):** Days Of Inventory target.
     *   **Vendor:** The supplier of the SKU.
     *   **Brand:** The brand of the SKU.
