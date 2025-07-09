@@ -26,7 +26,7 @@ Dataset for analyzing e-commerce logistics and inventory management in Vietnam, 
     *   **Tiki, Lazada, Shopee, TikTok, Sendo:** Stock levels for each respective platform.
     *   **Tiki demand per month, Lazada demand per month, Shopee demand per month, TikTok demand per month, Sendo demand per month:** Estimated monthly demand for the SKU on each platform.
     *   **DOITarget (days):** Days Of Inventory target.
-    *   **Vendor:** The supplier of the SKU.
+    *   **Primary Vendor:** The supplier of the SKU.
     *   **Brand:** The brand of the SKU.
     *   **Purpose:** Contains inventory levels, multi-channel demand forecasts, and supplier information for each SKU managed by **UpBase**.
 
